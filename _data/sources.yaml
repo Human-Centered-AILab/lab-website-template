@@ -1,11 +1,11 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
+- id: doi:10.1287/mnsc.2021.4073
+  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  date: 2022-2-8
   extra-links:
     - type: manubot
       link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-    - knowledge graphs
+    - decision analysis
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
