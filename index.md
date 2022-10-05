@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Human-Centered AI Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Bauer Human-Centered AI Lab is an interdisciplinary initiative — we seek to engage researchers in various fields and conduct use-inspired research that is practically important and theoretically grounded. The interdisciplinary initiative brings together research in fields like Information Systems, Marketing, Supply Chain Management, Human Resource Management, Finance, Accounting, Computer Science, and Computational Social Science.
   
 {%
   include link.html
