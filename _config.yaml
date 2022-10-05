@@ -14,9 +14,9 @@ links:
   google-scholar: Meng Li
   github: Human-Centered-AILab
   linkedin: Bauer Human-Centered AI Lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+#   twitter: YourLabHandle
+#   instagram: YourLabHandle
+#   youtube: YourLabChannel
 
 # automatic citations
 auto-cite:
