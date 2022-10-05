@@ -10,16 +10,16 @@ The Bauer Human-Centered AI Lab is an interdisciplinary initiative — we seek t
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="See our homepage"
+  link="https://www.bauer.uh.edu/ai/"
   style="button"
 %}
 {%
   include link.html
   type="docs"
   icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="Join our team"
+  link="https://www.bauer.uh.edu/ai/"
   style="button"
 %}
 {:.center}
