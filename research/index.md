@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Bauer Human-Centered AI Lab is an interdisciplinary initiative — we seek to engage researchers in various fields and conduct use-inspired research that is practically important and theoretically grounded. The interdisciplinary initiative brings together research in fields like Information Systems, Marketing, Supply Chain Management, Human Resource Management, Finance, Accounting, Computer Science, and Computational Social Science.
 
 {% include section.html %}
 
