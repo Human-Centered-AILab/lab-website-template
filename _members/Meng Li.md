@@ -8,7 +8,9 @@ aliases:
   - U. O. Goode
   - U Goode
 links:
-  orcid: 0000-0001-8713-9213
+<!--   orcid: 0000-0001-8713-9213 -->
+  home page: https://www.mengli.us/
+  google scholar: https://scholar.google.com/citations?hl=zh-CN&user=2RJSbyMAAAAJ&view_op=list_works&sortby=pubdate
   email: mli@bauer.uh.edu
   lindedin: [Meng Li](https://www.linkedin.com/in/meng-li-181849161/)
 ---
