@@ -51,7 +51,7 @@ US
 {% capture col1 %}
 {%
   include figure.html
-  image="https://en.wikipedia.org/wiki/Bauer_College_of_Business#/media/File:Melcher_Hall_(Front).JPG"
+  image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Melcher_Hall_%28Front%29.JPG/2560px-Melcher_Hall_%28Front%29.JPG"
   caption="C. T. Bauer College of Business"
 %}
 {% endcapture %}
