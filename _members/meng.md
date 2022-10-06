@@ -4,10 +4,11 @@ image: https://xdwong.github.io/images/meng.png
 description: Principal Investigator
 role: pi
 aliases:
+  - Meng Li
   - M. Li
 links:
   home-page: www.mengli.us
-  email: anne@chovie.com
+  email: mli@bauer.uh.edu
   linkedin: https://www.linkedin.com/in/meng-li-181849161/
 ---
 
