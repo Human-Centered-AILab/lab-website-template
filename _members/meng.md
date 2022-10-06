@@ -1,8 +1,8 @@
 ---
 name: Meng Li
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
+image: https://xdwong.github.io/images/meng.png
+description: PI
+role: pi
 aliases:
   - M. Li
 links:
