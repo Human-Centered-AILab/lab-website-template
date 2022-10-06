@@ -1,5 +1,8 @@
 ---
 title: Identification and Estimation of Long-term Treatment Effects via Data Combination
+tags:
+  - treatment effect
+  - randomized experiments
 author: Dr. Xiaojie Mao
 member: Dr. Xiaojie Mao
 ---
