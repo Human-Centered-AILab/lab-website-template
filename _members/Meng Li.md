@@ -6,7 +6,7 @@ role: pi
 aliases:
   - Meng Li
 links:
-<!--   orcid: 0000-0001-8713-9213 -->
+  orcid: 0000-0001-8713-9213
   home page: https://www.mengli.us/
   google scholar: https://scholar.google.com/citations?hl=zh-CN&user=2RJSbyMAAAAJ&view_op=list_works&sortby=pubdate
   email: mli@bauer.uh.edu
