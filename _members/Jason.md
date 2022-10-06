@@ -1,6 +1,6 @@
 ---
 name: Jason Xianghua Wu
-image: https://media-exp1.licdn.com/dms/image/C4E03AQFxKMbFSl14Wg/profile-displayphoto-shrink_400_400/0/1560876648097?e=1670457600&v=beta&t=Jld0bTCdWUGTyaeryd4xO8BcE3j8llT6Tsty-uCXPS4
+image: 
 description: Postdoctoral Research Fellow
 role: postdoc
 aliases:
