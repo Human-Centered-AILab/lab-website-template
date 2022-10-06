@@ -33,8 +33,7 @@ The Bauer Human-Centered AI Lab aims at enhancing student experience, creating i
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Come join us! To be a global leader at the intersection of business analytics, digital technology, and artificial intelligence through world-class research and teaching programs.
 
 {%
   include link.html
