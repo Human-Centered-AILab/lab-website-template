@@ -3,7 +3,7 @@
   date: 2022-2-8
   extra-links:
     - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+      link: http://manubot.org/
   tags:
     - decision analysis
 
@@ -12,31 +12,60 @@
   date: 2021-7-20
   extra-links:
     - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - decision analysis
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
       link: http://manubot.org/
+  tags:
+    - artificial intelligence
+    - procurement
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: doi:10.1111/poms.13424
+  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  date: 2021-4-20
+  tags:
+    - overconfidence
+    - transshipment
+    - behavioral operations management
+    - managerial bias
+
+- id: doi:10.1287/msom.2019.0862
+  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  date: 2020-5-7
+  tags:
+    - wholesale price
+    - business-to-business (B2B) marketplace
+    - global sourcing
+    - market information
+    - social information
+
+- id: doi:10.1287/mnsc.2019.3411
+  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  date: 2019-12-5
+  tags:
+    - delivery
+    - service quality
+    - retail platform
+    - sales dispersion
+    - natural experiment
+
+- id: doi:10.1002/smj.3047
+  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  date: 2019-5-24
+  tags:
+    - behavioral strategy
+    - flexibility
+    - managerial behavior
+    - overconfidence
+    - repositioning costs
+
+# - id: doi:10.7554/eLife.32822
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#   extra-links:
+#     - type: preprint
+#       link: https://doi.org/10.7287/peerj.preprints.3100v1
+#     - type: manubot
+#       link: https://greenelab.github.io/scihub-manuscript/
+#     - type: source
+#       link: https://github.com/greenelab/scihub-manuscript
+#       text: Manuscript source
+#     - type: source
+#       link: https://github.com/greenelab/scihub
+#       text: Analyses source
