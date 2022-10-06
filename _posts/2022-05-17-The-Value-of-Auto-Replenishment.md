@@ -2,7 +2,7 @@
 title: The Value of Auto-Replenishment: Evidence from a Field Experiment
 tags:
   - field experiment
-  - auto-replenishment
+  - auto replenishment
 speaker: [Dr. Liang Xu](https://xiaojiemao.github.io/](https://business.unl.edu/people/liangxu/)
 member: Dr. Liang Xu
 ---
