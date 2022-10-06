@@ -1,12 +1,10 @@
 ---
 name: Meng Li
 image: https://xdwong.github.io/images/meng.png
-<!-- description: PI -->
+description: PI
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - Meng Li
 links:
 <!--   orcid: 0000-0001-8713-9213 -->
   home page: https://www.mengli.us/
