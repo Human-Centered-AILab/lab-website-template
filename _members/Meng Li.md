@@ -1,6 +1,6 @@
 ---
 name: Meng Li
-image: images/meng.jpg
+image: https://xdwong.github.io/images/meng.png
 <!-- description: PI -->
 role: pi
 aliases:
