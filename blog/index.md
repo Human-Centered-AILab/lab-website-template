@@ -28,9 +28,8 @@ nav:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Insightful work by our lab director Meng Li <a href="https://twitter.com/michaelcryo?ref_src=twsrc%5Etfw">@michaelcryo</a> and his co-authors!<a href="https://t.co/M5JXWYamF2">https://t.co/M5JXWYamF2</a> <a href="https://t.co/ecybHExz4e">pic.twitter.com/ecybHExz4e</a></p>&mdash; Bauer Human-Centered AI Lab (@bauer_ai) <a href="https://twitter.com/bauer_ai/status/1578158706394816512?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
-
-<!-- <a href="https://twitter.com/bauer_ai" class="twitter-follow-button" data-show-count="false">Follow @Bauer Human-Centered AI Lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/bauer_ai/with_replies" class="twitter-mention-button" data-show-count="false">Tweet to @Bauer Human-Centered AI Lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<a href="https://twitter.com/bauer_ai" class="twitter-follow-button" data-show-count="false">Follow @Bauer Human-Centered AI Lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/bauer_ai/with_replies" class="twitter-mention-button" data-show-count="false">Tweet to @Bauer Human-Centered AI Lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
 <!-- <a href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
