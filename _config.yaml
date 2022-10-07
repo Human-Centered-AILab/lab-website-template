@@ -11,10 +11,10 @@ baseurl: /lab-website-template
 # site social media and other links
 links:
   email: mli@bauer.uh.edu
-  google-scholar: https://scholar.google.com/citations?hl=zh-CN&user=2RJSbyMAAAAJ&view_op=list_works&sortby=pubdate
+  google-scholar: 2RJSbyMAAAAJ&view_op=list_works&sortby=pubdate
   github: Human-Centered-AILab
-  linkedin: https://www.linkedin.com/company/human-centered-ai-lab/
-  twitter: https://twitter.com/bauer_ai
+  linkedin: company/human-centered-ai-lab/
+  twitter: bauer_ai
 #   instagram: YourLabHandle
 #   youtube: YourLabChannel
 
