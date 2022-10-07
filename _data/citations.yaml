@@ -39,12 +39,13 @@
   publisher: Production and Operations Management
   date: '2021-04-20'
   link: https://doi.org/gnkc65
-  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  image: images/POM2021.png
   tags:
   - overconfidence
   - transshipment
   - behavioral operations management
   - managerial bias
+
 - id: doi:10.1287/msom.2019.0862
   title: Wholesale Price Discrimination in Global Sourcing
   authors:
@@ -55,13 +56,14 @@
   publisher: Manufacturing &amp; Service Operations Management
   date: '2020-05-07'
   link: https://doi.org/gm5fdr
-  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  image: images/MSOM2020.png
   tags:
   - wholesale price
   - business-to-business (B2B) marketplace
   - global sourcing
   - market information
   - social information
+
 - id: doi:10.1287/mnsc.2019.3411
   title: 'Value of High-Quality Logistics: Evidence from a Clash Between SF Express
     and Alibaba'
@@ -72,13 +74,14 @@
   publisher: Management Science
   date: '2019-12-05'
   link: https://doi.org/ghjrs7
-  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  image: images/MS2020.png
   tags:
   - delivery
   - service quality
   - retail platform
   - sales dispersion
   - natural experiment
+
 - id: doi:10.1002/smj.3047
   title: Incumbent repositioning with decision biases
   authors:
@@ -88,7 +91,7 @@
   publisher: Strategic Management Journal
   date: '2019-05-24'
   link: https://doi.org/gm2z5h
-  image: https://pubsonline.informs.org/na101/home/literatum/publisher/informs/journals/covergifs/mnsc/cover.png
+  image: images/SMJ2019.png
   tags:
   - behavioral strategy
   - flexibility
