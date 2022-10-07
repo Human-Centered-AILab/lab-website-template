@@ -1,7 +1,7 @@
 ---
 name: Xiaolin Yang
 image: images/Xiaolin.png
-description: Ph.D.
+description: University of Houston
 role: phd
 aliases:
   - Yang, X.
