@@ -10,4 +10,4 @@ links:
   linkedin: https://www.linkedin.com/in/meng-li-181849161/
 ---
 
-Xiaolin Yang is a Ph.D. student at C.T. Bauer College of Business, University of Houston. Her recent research interests focus on live streaming industry, platform operations, supply chain management.
+Xiaolin Yang is a Ph.D. student at C.T. Bauer College of Business, University of Houston. Her recent research interests focus on live streaming industry, platform operations, supply chain management. She has published articles in journals such as Transportation Research Part E: Logistics and Transportation Review.
