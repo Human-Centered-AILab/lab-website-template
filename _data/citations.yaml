@@ -101,8 +101,6 @@
   - managerial behavior
   - overconfidence
   - repositioning costs
-  
-  
 - id: 10.1111/poms.12981
   title: Overconfident Distribution Channels
   authors:
@@ -119,8 +117,6 @@
   - managerial behavior
   - overconfidence
   - repositioning costs
-  
-  
 - id: 10.1111/poms.12626
   title: Technical Note—Demand Uncertainty Reduction in Decentralized Supply Chains
   authors:
@@ -135,7 +131,7 @@
   - demand variance reduction
   - pricing
   - wholesale price contract
-  - id: 10.1287/mnsc.2016.2469
+- id: 10.1287/mnsc.2016.2469
   title: Overconfident Competing Newsvendors
   authors:
   - Meng Li
