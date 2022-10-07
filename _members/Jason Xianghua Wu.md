@@ -1,7 +1,7 @@
 ---
 name: Jason Xianghua Wu
 image: 
-description: Postdoctoral Research Fellow
+description: University of Houston
 role: postdoc
 aliases:
   - Jason Xianghua Wu
