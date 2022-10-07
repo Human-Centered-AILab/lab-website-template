@@ -90,7 +90,7 @@ linkedin:
   icon: fab fa-linkedin
   text: LinkedIn
   tooltip: LinkedIn
-  link: https://www.linkedin.com/in/$LINK
+  link: https://www.linkedin.com/$LINK
 
 # publications
 
