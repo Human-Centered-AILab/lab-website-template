@@ -2,7 +2,7 @@
 name: Jason Xianghua Wu
 image: 
 description: Postdoctoral Research Fellow
-role: phd
+role: postdoc
 aliases:
   - Jason Xianghua Wu
 links:
