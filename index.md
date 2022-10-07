@@ -35,8 +35,7 @@ The concomitant explosive development of the technology infrastructure and the d
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Bauer Human-Centered AI Lab is an interdisciplinary initiative — we seek to engage researchers in various fields and conduct use-inspired research that is practically important and theoretically grounded. The interdisciplinary initiative brings together research in fields like Information Systems, Marketing, Supply Chain Management, Human Resource Management, Finance, Accounting, Computer Science, and Computational Social Science.
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -44,17 +43,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/MS2020.png"
   link="research"
   headline="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Bauer Human-Centered AI Lab aims at enhancing student experience, creating industry collaboration, and increasing research output by fostering interdisciplinary research collaborations across departments and with industry partners.
 
-[See our resources &nbsp;→](resources)
+[See our news &nbsp;→](blog)
 {:.center}
 {% endcapture %}
 
@@ -67,7 +65,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+To be a global leader at the intersection of business analytics, digital technology, and artificial intelligence through world-class research and teaching programs.
 
 [Meet our team &nbsp;→](team)
 {:.center}
@@ -75,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://www.bauer.uh.edu/images/ai/ai-programs.jpg"
   link="team"
   headline="Our Team"
   text=text
