@@ -3,7 +3,7 @@ pi:
   text: Principal Investigator
 
 teacher:
-  icon: fas fa-glasses
+  icon: fas fa-code
   text: Teacher
 
 postdoc:
