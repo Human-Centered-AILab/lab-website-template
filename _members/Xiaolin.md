@@ -1,6 +1,6 @@
 ---
 name: Xiaolin Yang
-image: https://xdwong.github.io/images/meng.png
+image: images/Xiaolin.jepg
 description: Ph.D.
 role: phd
 aliases:
