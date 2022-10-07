@@ -10,7 +10,7 @@ The concomitant explosive development of the technology infrastructure and the d
   
 {%
   include link.html
-  type="homepage"
+  type="home-page"
   icon=""
   text="See our homepage"
   link="https://www.bauer.uh.edu/ai/"
