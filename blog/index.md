@@ -30,7 +30,7 @@ nav:
 
 <a href="https://twitter.com/bauer_ai" class="twitter-follow-button" data-show-count="false">Follow @Bauer Human-Centered AI Lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/bauer_ai/with_replies" class="twitter-mention-button" data-show-count="false">Tweet to @Bauer Human-Centered AI Lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
+<!-- {:.center} -->
 
 <!-- <a href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
