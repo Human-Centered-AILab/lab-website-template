@@ -1,7 +1,7 @@
 ---
 name: Qiang Li
 image: images/Qiang.png
-description: Ph.D.
+description: Wilfrid Laurier University
 role: teacher
 aliases:
   - Qiang Li
