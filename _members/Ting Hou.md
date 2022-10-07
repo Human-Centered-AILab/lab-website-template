@@ -11,4 +11,4 @@ links:
   linkedin: https://www.linkedin.com/in/meng-li-181849161/
 ---
 
-Ting Hou is a visiting Ph.D. student at C.T. Bauer College of Business, University of Houston, and she is a Ph.D. student at the University of Science and Technology of China. Her recent research interests focus on crowdsourcing and behavioral operations management. She has published articles in journals such as Transportation Research Part E: Logistics and Transportation Review.
+Ting Hou is a Ph.D. student at the School of Management, University of Science and Technology of China. Currently, she is visiting the Human-Centered AI Lab at the University of Houston. Her recent research interests focus on crowdsourcing and behavioral operations management. She has published articles in journals such as Transportation Research Part E: Logistics and Transportation Review.
