@@ -10,4 +10,4 @@ links:
   linkedin: https://www.linkedin.com/in/alexander-wang-b807b9222/
 ---
 
-Xudong Wang is a visiting Ph.D. student at C.T. Bauer College of Business, University of Houston, and he is a Ph.D. student at Tianjin University. His recent research interests focus on fintech, platform and behavioral operations management.
+Xudong Wang is a Ph.D. student at the College of Management and Economics, Tianjin University. Currently, he is visiting the Human-Centered AI Lab at the University of Houston.. His recent research interests focus on fintech, platform and behavioral operations management.
