@@ -1,6 +1,6 @@
 ---
 name: Xiaolin Yang
-image: images/Xiaolin.jepg
+image: images/Xiaolin.png
 description: Ph.D.
 role: phd
 aliases:
