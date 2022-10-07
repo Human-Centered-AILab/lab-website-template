@@ -21,13 +21,13 @@ The Bauer Human-Centered AI Lab aims at enhancing student experience, creating i
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: postdoc"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: phd"
 %}
 {:.center}
 
