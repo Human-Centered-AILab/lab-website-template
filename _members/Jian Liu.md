@@ -1,6 +1,6 @@
 ---
 name: Jian Liu
-image: 
+image: images/Jian.png
 description: University of Houston
 role: postdoc
 aliases:
