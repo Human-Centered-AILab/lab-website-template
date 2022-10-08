@@ -3,7 +3,8 @@
 # site properties and page defaults
 title: Bauer Human-Centered AI Lab
 description: Interdisciplinary, Data-Driven Research & Teaching That Transforms Decision-Making.
-logo: images/logo.svg
+# logo: images/logo.svg
+logo: <i class="fa-solid fa-brain-circuit"></i>
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /lab-website-template
