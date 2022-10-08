@@ -1,5 +1,21 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.2139/ssrn.3747717
+  title: Supplier Bottleneck and Information Dissemination
+  authors:
+  - Meng Li
+  - Yue Li
+  - Yang Zhang
+  publisher: Journal of Operations Management
+  date: '2022-02-08'
+  link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717
+  image: images/JOM2022.png
+  tags:
+  - complementary suppliers
+  - newsvendor
+  - behavioral operations
+  - information dissemination
+
 - id: doi:10.1287/mnsc.2021.4073
   title: Managerial Regret and Inventory Pricing
   authors:
