@@ -7,7 +7,7 @@ aliases:
   - Jian Liu
 links:
   email: jianlau@njust.edu.cn
-  linkedin: https://www.linkedin.com/in/jian-liu-04906546/
+  linkedin: in/jian-liu-04906546/
 ---
 
 Jian Liu is a postdoc fellow in the C.T. Bauer College of Business at the University of Houston. He has expertise in both operations management and the electricity market, holding a Ph.D. degree in Management Science and Engineering and a Ph.D. degree in Electrical Engineering. His research interests include decision analysis, service operations, electric vehicles, energy storage systems, renewable energy integration, transmission planning, and decarbonization.
