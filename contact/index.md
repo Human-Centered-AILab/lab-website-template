@@ -51,14 +51,14 @@ US
 {% capture col1 %}
 {%
   include figure.html
-  image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Melcher_Hall_%28Front%29.JPG/2560px-Melcher_Hall_%28Front%29.JPG"
+  image=images/Bauer.png
   caption="C. T. Bauer College of Business"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="https://www.bauer.uh.edu/images/ai/ai-programs.jpg"
+  image=images/lab.png
   caption="Bauer Human-Centered AI Lab"
 %}
 {% endcapture %}
