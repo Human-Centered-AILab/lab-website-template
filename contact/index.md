@@ -51,14 +51,14 @@ US
 {% capture col1 %}
 {%
   include figure.html
-  image=images/Bauer.png
+  image= "images/Bauer.png"
   caption="C. T. Bauer College of Business"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image=images/lab.png
+  image= "images/lab.png"
   caption="Bauer Human-Centered AI Lab"
 %}
 {% endcapture %}
