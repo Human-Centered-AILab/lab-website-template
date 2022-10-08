@@ -52,7 +52,7 @@ Come join us! To be a global leader at the intersection of business analytics, d
 
 {% include section.html %}
 
-## Funding
+<!-- ## Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}
@@ -85,3 +85,4 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
+ -->
