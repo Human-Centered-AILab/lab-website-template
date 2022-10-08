@@ -73,7 +73,7 @@ To be a global leader at the intersection of business analytics, digital technol
 
 {%
   include feature.html
-  image="https://www.bauer.uh.edu/images/ai/ai-programs.jpg"
+  image="images/lab1.png"
   link="team"
   headline="Our Team"
   text=text
