@@ -58,7 +58,7 @@ US
 {% capture col2 %}
 {%
   include figure.html
-  image= "images/lab.png"
+  image= "images/lab2.png"
   caption="Bauer Human-Centered AI Lab"
 %}
 {% endcapture %}
