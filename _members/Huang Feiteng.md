@@ -1,6 +1,6 @@
 ---
 name: Feiteng Huang
-image: images/Zhi.png
+image: images/Feiteng.png
 description: University of Houston
 role: phd
 aliases:
