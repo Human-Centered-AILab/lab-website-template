@@ -3,7 +3,7 @@
     "short_name": "",
     "icons": [
         {
-            "src": "favicons/AILogo.svg",
+            "src": "favicons/AILogo.png",
             "sizes": "512x512",
             "type": "image/png"
         }
