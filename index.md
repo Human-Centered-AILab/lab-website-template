@@ -73,7 +73,7 @@ To be a global leader at the intersection of business analytics, digital technol
 
 {%
   include feature.html
-  image="images/lab1.png"
+  image="team/team-homepage.png"
   link="team"
   headline="Our Team"
   text=text
