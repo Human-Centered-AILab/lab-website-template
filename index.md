@@ -28,7 +28,7 @@ The concomitant explosive development of the technology infrastructure and the d
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/team-long.png" %}
 
 {% include section.html %}
 
