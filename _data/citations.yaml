@@ -9,7 +9,7 @@
   publisher: Journal of Operations Management
   date: '2022-08-30'
   link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717
-  image: images/JOM2022.png
+  image: images/papers/JOM2022.png
   tags:
   - complementary suppliers
   - newsvendor
@@ -42,7 +42,7 @@
   publisher: Manufacturing &amp; Service Operations Management
   date: '2021-07-20'
   link: https://doi.org/gn3hft
-  image: images/MSOM2021c.png
+  image: images/papers/MSOM2021c.png
   extra-links:
   - type: manubot
     link: http://manubot.org/
