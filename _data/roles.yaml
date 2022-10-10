@@ -1,10 +1,10 @@
 pi:
   icon: fas fa-microscope
-  text: Principal Investigator
+  text: Director
 
 teacher:
   icon: fas fa-code
-  text: Sub-investigator
+  text: Former Member
 
 postdoc:
   icon: fas fa-glasses
