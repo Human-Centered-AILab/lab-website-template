@@ -1,6 +1,6 @@
 pi:
 #   icon: fas fa-microscope
-  icon: <i class="fa-light fa-chalkboard-user"></i>
+  icon: fa-light fa-chalkboard-user
   text: Director
 
 teacher:
