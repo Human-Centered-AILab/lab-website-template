@@ -11,24 +11,31 @@ The Bauer Human-Centered AI Lab aims at enhancing student experience, creating i
 
 {% include section.html %}
 
+## Principal Investigator
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
 %}
+
+## Sub-investigator
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: teacher"
 %}
+
+## Postdoctoral Researcher
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc"
 %}
+
+## PhD student
 {%
   include list.html
   data="members"
