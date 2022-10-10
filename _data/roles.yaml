@@ -1,6 +1,5 @@
 pi:
-#   icon: fas fa-microscope
-  icon: fa-duotone fa-chalkboard-user
+  icon: fas fa-microscope
   text: Director
 
 teacher:
