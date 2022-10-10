@@ -1,7 +1,7 @@
 ---
 name: Meng Li
 image: https://xdwong.github.io/images/meng.png
-description: Principal Investigator
+description: University of Houston
 role: pi
 aliases:
   - Meng Li
