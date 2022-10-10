@@ -1,6 +1,6 @@
 ---
 name: Jason Xianghua Wu
-image: 
+image: images/Jason.png
 description: University of Houston
 role: postdoc
 aliases:
