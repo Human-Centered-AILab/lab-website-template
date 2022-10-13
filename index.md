@@ -7,7 +7,15 @@ title: Home
 As digital technology increasingly becomes a core component of businesses and society, we need to recognize the volume and granularity of data that organizations can observe and acquire, and more importantly, the scale and precision of analytics and artificial intelligence (AI) that organizations can implement to optimize their decision-making. The transformation from experience-based decision making to data- and AI-driven business operations started manifesting itself in the past few years and even the leading firms like Facebook and Amazon are only scratching the surface in exploring the innovative approaches such as machine learning, artificial intelligence, and large-scale field experimentation, in creating business value and societal impacts.
 
 The concomitant explosive development of the technology infrastructure and the data-driven business models create unique opportunities and challenges for the business education that is also undergoing the digital transformation. The Bauer Human-Centered AI Lab aims at enhancing student experience, creating industry collaboration, and increasing research output by fostering interdisciplinary research collaborations across departments and with industry partners.
-  
+
+{%
+  include link.html
+  type="user"
+  icon=""
+  text="See our director"
+  link="https://www.mengli.us/"
+  style="button"
+%}
 {%
   include link.html
   type="home-page"
