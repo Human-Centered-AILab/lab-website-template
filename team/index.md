@@ -27,7 +27,7 @@ The Bauer Human-Centered AI Lab aims at enhancing student experience, creating i
   filters="role: postdoc"
 %}
 
-## PhD student
+## PhD Student
 {%
   include list.html
   data="members"
