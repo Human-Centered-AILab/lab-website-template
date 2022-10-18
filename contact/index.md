@@ -10,6 +10,8 @@ nav:
 Our lab is part of the [C. T. Bauer College of Business](https://www.bauer.uh.edu/), at [University of Houston](https://www.uh.edu/).
 We are located on Houston, Texas.
 
+We have an open postdoc position at Bauer Human-Centered AI Lab, University of Houston. It will start soon (Spring 2023). If you are interested in this position, please contact us.
+
 {%
   include link.html
   type="email"
