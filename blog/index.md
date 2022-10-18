@@ -21,6 +21,9 @@ nav:
 
 <!-- LinkedIn embeds from [https://publish.twitter.com/](https://www.linkedin.com/company/human-centered-ai-lab/) -->
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6987973702806089728" height="770" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+{:.center}
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6982806544174243841" height="600" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 {:.center}
 
@@ -29,6 +32,9 @@ nav:
 
 
 ## News from [Twitter](https://twitter.com/bauer_ai)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have an open postdoc position at Bauer Human-Centered AI Lab, University of Houston. It will start soon (Spring 2023). If you are interested in this position, please see below. <a href="https://t.co/MhtgYr86WZ">pic.twitter.com/MhtgYr86WZ</a></p>&mdash; Bauer Human-Centered AI Lab (@bauer_ai) <a href="https://twitter.com/bauer_ai/status/1582210675614441472?ref_src=twsrc%5Etfw">October 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
 
 <blockquote class="twitter-tweet center"><p lang="en" dir="ltr">The POM Special Issue on Responsible Data Science is now open for submissions! Submissions with multiple perspectives and approaches are welcome! <a href="https://t.co/yHQsq1VRdr">pic.twitter.com/yHQsq1VRdr</a></p>&mdash; Bauer Human-Centered AI Lab (@bauer_ai) <a href="https://twitter.com/bauer_ai/status/1578545075134824449?ref_src=twsrc%5Etfw">October 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
