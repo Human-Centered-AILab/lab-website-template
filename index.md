@@ -68,7 +68,7 @@ The Bauer Human-Centered AI Lab aims at enhancing student experience, creating i
   include feature.html
   image="images/Linkedin.png"
   link="resources"
-  headline="Our Blog and News"
+  headline="Our News"
   text=text
 %}
 
