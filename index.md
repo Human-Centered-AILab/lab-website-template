@@ -60,7 +60,7 @@ The Bauer Human-Centered AI Lab is an interdisciplinary initiative — we seek t
 {% capture text %}
 The Bauer Human-Centered AI Lab aims at enhancing student experience, creating industry collaboration, and increasing research output by fostering interdisciplinary research collaborations across departments and with industry partners.
 
-[See our blog and news &nbsp;→](blog)
+[See our news &nbsp;→](news)
 {:.center}
 {% endcapture %}
 
