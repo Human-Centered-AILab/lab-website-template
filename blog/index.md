@@ -1,7 +1,7 @@
 ---
 title: Blog and News
 nav:
-  order: 4
+  order: 3
   tooltip: Blog and News
 ---
 
