@@ -1,11 +1,12 @@
 ---
-title: Algorithm-driven Personalization and Digital Addiction: A Field Experiment on Tiktok (Douyin)
+title: Algorithm-driven Personalization and Digital Addiction--A Field Experiment on Tiktok (Douyin)
 tags:
   - digital addiction
   - field experiment
 author: Prof. Juanjuan Meng
 member: Prof. Juanjuan Meng
 ---
+
 
 <b>Abstract: </b>
 
