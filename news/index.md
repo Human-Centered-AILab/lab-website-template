@@ -11,6 +11,8 @@ nav:
 
 <!-- LinkedIn embeds from [https://publish.twitter.com/](https://www.linkedin.com/company/human-centered-ai-lab/) -->
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7004211271302582272" height="807" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6988694251823878144" height="461" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 {:.center}
 
